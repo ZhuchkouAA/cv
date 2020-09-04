@@ -1,0 +1,33 @@
+body {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+main {
+  padding: 0 20px;
+}
+
+li {
+  font-size: 1.3em;
+  padding-bottom: 10px;
+}
+
+li a {
+  text-decoration: none;
+  color: blue;
+}
+
+img {
+  width: 25%;
+  height: 25%;
+  float: right;
+  margin-left: 5px;
+}
+
+h4 {
+  font-size: 1.13em;
+}
+
+.login {
+  color: red;
+}
